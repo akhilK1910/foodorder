@@ -1,0 +1,1 @@
+"# foodorder"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/akhilK1910/foodorder.gitgit push -u origin main
