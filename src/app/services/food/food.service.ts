@@ -90,7 +90,7 @@ export class FoodService {
       { name: 'Burger', count: 1 },
       { name: 'Soup', count: 1 },
       {
-        name:'Breakfast',count:1
+        name:'Breakfast',count:1 
       }
     ]
   }
