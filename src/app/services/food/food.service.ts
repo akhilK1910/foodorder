@@ -88,7 +88,10 @@ export class FoodService {
       { name: 'Lunch', count: 4 },
       { name: 'Sweet', count: 1 },
       { name: 'Burger', count: 1 },
-      { name: 'Soup', count: 1 }
+      { name: 'Soup', count: 1 },
+      {
+        name:'Breakfast',count:1
+      }
     ]
   }
   getFoodById(id:number):Foods{
